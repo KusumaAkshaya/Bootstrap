@@ -1,0 +1,5 @@
+#main-head{
+    height: calc(100vh - 54px);
+    background-image: url('https://img.freepik.com/free-vector/colourful-dynamic-flow-background_52683-42964.jpg');
+    background-size: cover;
+}
